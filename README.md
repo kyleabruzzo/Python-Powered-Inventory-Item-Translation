@@ -25,8 +25,8 @@ Script Usage
 
 1. Open the lang.txt file and choose ur language
 
-2. Open main.py and go to line 79 and edit the language to yours, for example for me will be:
- target_languages = ['it']
+2. Open main.py and go to line `79` and edit the language to yours, for example for me will be:
+ target_languages = `['it']`
 
 3. Paste you items.lua file where the main.py is located.
 
